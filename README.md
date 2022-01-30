@@ -1,8 +1,8 @@
-#Aplicando o conhecimento em listas circulares.
+Aplicando o conhecimento em listas circulares.
 
-#Métodos utilizados:
-###.add
-###.remove
-###.get
-###.isEmpty
-###.size
+Métodos utilizados:
+.add
+.remove
+.get
+.isEmpty
+.size
